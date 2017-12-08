@@ -1,0 +1,1 @@
+cmd_drivers/acpi/tables/built-in.o :=  ld -m elf_x86_64  -r -o drivers/acpi/tables/built-in.o drivers/acpi/tables/tbconvrt.o drivers/acpi/tables/tbget.o drivers/acpi/tables/tbrsdt.o drivers/acpi/tables/tbxface.o drivers/acpi/tables/tbgetall.o drivers/acpi/tables/tbinstal.o drivers/acpi/tables/tbutils.o drivers/acpi/tables/tbxfroot.o

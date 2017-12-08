@@ -1,0 +1,1 @@
+#define CONFIG_SERIAL_8250_RSA 1

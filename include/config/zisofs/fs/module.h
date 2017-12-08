@@ -1,0 +1,1 @@
+#define CONFIG_ZISOFS_FS_MODULE 1

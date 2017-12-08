@@ -1,0 +1,1 @@
+cmd_arch/x86_64/kernel/cpufreq/acpi-cpufreq.ko := ld -m elf_x86_64 -r -o arch/x86_64/kernel/cpufreq/acpi-cpufreq.ko arch/x86_64/kernel/cpufreq/acpi-cpufreq.o arch/x86_64/kernel/cpufreq/acpi-cpufreq.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/scsi/built-in.o :=  ld -m elf_x86_64  -r -o drivers/scsi/built-in.o drivers/scsi/scsi_mod.o drivers/scsi/qla2xxx/built-in.o drivers/scsi/megaraid/built-in.o drivers/scsi/sd_mod.o drivers/scsi/sr_mod.o drivers/scsi/sg.o

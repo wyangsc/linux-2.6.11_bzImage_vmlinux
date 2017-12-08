@@ -1,0 +1,1 @@
+#define CONFIG_SERIO_RAW_MODULE 1

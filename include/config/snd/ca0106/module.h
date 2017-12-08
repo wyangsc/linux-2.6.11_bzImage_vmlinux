@@ -1,0 +1,1 @@
+#define CONFIG_SND_CA0106_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_MEGARAID_NEWGEN 1

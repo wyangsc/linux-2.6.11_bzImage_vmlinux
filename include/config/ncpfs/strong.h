@@ -1,0 +1,1 @@
+#define CONFIG_NCPFS_STRONG 1

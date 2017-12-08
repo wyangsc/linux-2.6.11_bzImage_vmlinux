@@ -1,0 +1,1 @@
+#define CONFIG_BT_HCIUART_H4 1

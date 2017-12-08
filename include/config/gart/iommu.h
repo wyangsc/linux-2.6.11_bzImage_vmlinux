@@ -1,0 +1,1 @@
+#define CONFIG_GART_IOMMU 1

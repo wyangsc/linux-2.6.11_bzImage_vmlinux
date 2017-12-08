@@ -1,0 +1,1 @@
+cmd_arch/x86_64/boot/compressed/piggy.o := ld -m elf_i386  -r --format binary --oformat elf32-i386 -T arch/x86_64/boot/compressed/vmlinux.scr arch/x86_64/boot/compressed/vmlinux.bin.gz -o arch/x86_64/boot/compressed/piggy.o 

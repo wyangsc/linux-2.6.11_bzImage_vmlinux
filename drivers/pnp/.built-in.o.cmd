@@ -1,0 +1,1 @@
+cmd_drivers/pnp/built-in.o :=  ld -m elf_x86_64  -r -o drivers/pnp/built-in.o drivers/pnp/core.o drivers/pnp/card.o drivers/pnp/driver.o drivers/pnp/resource.o drivers/pnp/manager.o drivers/pnp/support.o drivers/pnp/interface.o drivers/pnp/quirks.o drivers/pnp/system.o drivers/pnp/pnpacpi/built-in.o

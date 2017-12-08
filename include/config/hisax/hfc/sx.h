@@ -1,0 +1,1 @@
+#define CONFIG_HISAX_HFC_SX 1

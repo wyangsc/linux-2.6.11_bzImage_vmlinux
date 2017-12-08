@@ -1,0 +1,1 @@
+#define CONFIG_NCP_FS_MODULE 1

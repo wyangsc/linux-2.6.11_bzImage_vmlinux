@@ -1,0 +1,1 @@
+#define CONFIG_FUSION_LAN_MODULE 1

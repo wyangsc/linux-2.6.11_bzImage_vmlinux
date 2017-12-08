@@ -1,0 +1,1 @@
+#define CONFIG_FB_VIRTUAL_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_ISDN_DIVAS_BRIPCI 1

@@ -1,0 +1,1 @@
+#undef CONFIG_MCP2120_DONGLE

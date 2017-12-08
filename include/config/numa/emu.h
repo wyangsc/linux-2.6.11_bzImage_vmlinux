@@ -1,0 +1,1 @@
+#define CONFIG_NUMA_EMU 1

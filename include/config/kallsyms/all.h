@@ -1,0 +1,1 @@
+#define CONFIG_KALLSYMS_ALL 1

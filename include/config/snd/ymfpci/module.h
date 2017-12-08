@@ -1,0 +1,1 @@
+#define CONFIG_SND_YMFPCI_MODULE 1

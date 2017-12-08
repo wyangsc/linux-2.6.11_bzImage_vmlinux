@@ -1,0 +1,1 @@
+cmd_security/keys/built-in.o :=  ld -m elf_x86_64  -r -o security/keys/built-in.o security/keys/key.o security/keys/keyring.o security/keys/keyctl.o security/keys/process_keys.o security/keys/user_defined.o security/keys/request_key.o security/keys/proc.o

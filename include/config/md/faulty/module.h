@@ -1,0 +1,1 @@
+#define CONFIG_MD_FAULTY_MODULE 1

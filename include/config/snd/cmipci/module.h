@@ -1,0 +1,1 @@
+#define CONFIG_SND_CMIPCI_MODULE 1

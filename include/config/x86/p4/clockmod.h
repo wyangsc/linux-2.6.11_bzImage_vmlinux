@@ -1,0 +1,1 @@
+#undef CONFIG_X86_P4_CLOCKMOD

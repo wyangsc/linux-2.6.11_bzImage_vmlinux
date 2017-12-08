@@ -1,0 +1,1 @@
+#undef CONFIG_USB_SN9C102

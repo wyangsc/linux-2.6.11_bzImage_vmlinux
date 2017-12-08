@@ -1,0 +1,1 @@
+#define CONFIG_SND_VX_LIB_MODULE 1

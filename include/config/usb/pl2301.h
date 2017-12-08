@@ -1,0 +1,1 @@
+#define CONFIG_USB_PL2301 1

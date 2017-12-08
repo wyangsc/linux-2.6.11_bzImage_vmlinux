@@ -1,0 +1,1 @@
+#define CONFIG_SND_AU8810_MODULE 1

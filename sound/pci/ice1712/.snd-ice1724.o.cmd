@@ -1,0 +1,1 @@
+cmd_sound/pci/ice1712/snd-ice1724.o := ld -m elf_x86_64  -r -o sound/pci/ice1712/snd-ice1724.o sound/pci/ice1712/ice1724.o sound/pci/ice1712/amp.o sound/pci/ice1712/revo.o sound/pci/ice1712/aureon.o sound/pci/ice1712/vt1720_mobo.o sound/pci/ice1712/pontis.o sound/pci/ice1712/prodigy192.o

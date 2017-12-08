@@ -1,0 +1,1 @@
+#define CONFIG_SUN_PARTITION 1

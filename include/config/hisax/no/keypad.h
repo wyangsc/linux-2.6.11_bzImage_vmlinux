@@ -1,0 +1,1 @@
+#define CONFIG_HISAX_NO_KEYPAD 1

@@ -1,0 +1,1 @@
+#define CONFIG_BT_HCIDTL1_MODULE 1

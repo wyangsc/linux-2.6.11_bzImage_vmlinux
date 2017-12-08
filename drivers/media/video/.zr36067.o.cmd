@@ -1,0 +1,1 @@
+cmd_drivers/media/video/zr36067.o := ld -m elf_x86_64  -r -o drivers/media/video/zr36067.o drivers/media/video/zoran_procfs.o drivers/media/video/zoran_device.o drivers/media/video/zoran_driver.o drivers/media/video/zoran_card.o

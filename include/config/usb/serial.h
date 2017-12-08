@@ -1,0 +1,1 @@
+#define CONFIG_USB_SERIAL 1

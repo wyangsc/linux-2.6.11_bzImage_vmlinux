@@ -1,0 +1,1 @@
+#define CONFIG_FB_VGA16_MODULE 1

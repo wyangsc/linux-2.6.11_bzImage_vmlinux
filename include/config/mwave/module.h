@@ -1,0 +1,1 @@
+#define CONFIG_MWAVE_MODULE 1

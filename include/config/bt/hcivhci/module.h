@@ -1,0 +1,1 @@
+#define CONFIG_BT_HCIVHCI_MODULE 1

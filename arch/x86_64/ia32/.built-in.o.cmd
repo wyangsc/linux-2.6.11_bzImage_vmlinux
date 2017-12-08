@@ -1,0 +1,1 @@
+cmd_arch/x86_64/ia32/built-in.o :=  ld -m elf_x86_64  -r -o arch/x86_64/ia32/built-in.o arch/x86_64/ia32/ia32entry.o arch/x86_64/ia32/sys_ia32.o arch/x86_64/ia32/ia32_ioctl.o arch/x86_64/ia32/ia32_signal.o arch/x86_64/ia32/tls32.o arch/x86_64/ia32/ia32_binfmt.o arch/x86_64/ia32/fpu32.o arch/x86_64/ia32/ptrace32.o arch/x86_64/ia32/syscall32.o arch/x86_64/ia32/ipc32.o

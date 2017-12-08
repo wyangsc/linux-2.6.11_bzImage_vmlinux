@@ -1,0 +1,1 @@
+cmd_net/irda/ircomm/ircomm-tty.o := ld -m elf_x86_64  -r -o net/irda/ircomm/ircomm-tty.o net/irda/ircomm/ircomm_tty.o net/irda/ircomm/ircomm_tty_attach.o net/irda/ircomm/ircomm_tty_ioctl.o net/irda/ircomm/ircomm_param.o

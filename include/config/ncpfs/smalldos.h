@@ -1,0 +1,1 @@
+#define CONFIG_NCPFS_SMALLDOS 1

@@ -1,0 +1,1 @@
+cmd_drivers/input/built-in.o :=  ld -m elf_x86_64  -r -o drivers/input/built-in.o drivers/input/input.o drivers/input/mousedev.o drivers/input/evdev.o drivers/input/keyboard/built-in.o drivers/input/mouse/built-in.o drivers/input/joystick/built-in.o drivers/input/touchscreen/built-in.o drivers/input/misc/built-in.o

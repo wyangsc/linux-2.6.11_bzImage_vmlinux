@@ -1,0 +1,1 @@
+#define CONFIG_JFS_POSIX_ACL 1

@@ -1,0 +1,1 @@
+#define CONFIG_HISAX_NETJET_U 1

@@ -1,0 +1,1 @@
+#define CONFIG_SCSI_3W_9XXX_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_BT_MODULE 1

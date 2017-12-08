@@ -1,0 +1,1 @@
+#define CONFIG_AMIGA_PARTITION 1

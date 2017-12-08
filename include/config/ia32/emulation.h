@@ -1,0 +1,1 @@
+#define CONFIG_IA32_EMULATION 1

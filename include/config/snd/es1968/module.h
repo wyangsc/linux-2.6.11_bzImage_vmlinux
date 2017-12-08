@@ -1,0 +1,1 @@
+#define CONFIG_SND_ES1968_MODULE 1

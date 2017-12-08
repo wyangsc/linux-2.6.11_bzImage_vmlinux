@@ -1,0 +1,1 @@
+#define CONFIG_I82092_MODULE 1

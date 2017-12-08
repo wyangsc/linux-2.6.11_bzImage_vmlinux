@@ -1,0 +1,1 @@
+#define CONFIG_SND_MTPAV_MODULE 1

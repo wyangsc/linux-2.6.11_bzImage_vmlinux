@@ -1,0 +1,1 @@
+#define CONFIG_MII_MODULE 1

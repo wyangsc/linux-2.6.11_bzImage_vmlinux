@@ -1,0 +1,1 @@
+#define CONFIG_SCSI_IPS_MODULE 1

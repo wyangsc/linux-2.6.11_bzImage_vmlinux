@@ -1,0 +1,1 @@
+cmd_drivers/acpi/parser/built-in.o :=  ld -m elf_x86_64  -r -o drivers/acpi/parser/built-in.o drivers/acpi/parser/psargs.o drivers/acpi/parser/psparse.o drivers/acpi/parser/pstree.o drivers/acpi/parser/pswalk.o drivers/acpi/parser/psopcode.o drivers/acpi/parser/psscope.o drivers/acpi/parser/psutils.o drivers/acpi/parser/psxface.o

@@ -1,0 +1,1 @@
+#undef CONFIG_IA32_AOUT

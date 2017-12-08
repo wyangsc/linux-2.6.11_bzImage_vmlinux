@@ -1,0 +1,1 @@
+#define CONFIG_SND_FM801_MODULE 1

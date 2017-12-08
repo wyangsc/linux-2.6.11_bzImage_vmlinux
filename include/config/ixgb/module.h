@@ -1,0 +1,1 @@
+#define CONFIG_IXGB_MODULE 1

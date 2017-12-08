@@ -1,0 +1,1 @@
+cmd_drivers/block/built-in.o :=  ld -m elf_x86_64  -r -o drivers/block/built-in.o drivers/block/elevator.o drivers/block/ll_rw_blk.o drivers/block/ioctl.o drivers/block/genhd.o drivers/block/scsi_ioctl.o drivers/block/noop-iosched.o drivers/block/as-iosched.o drivers/block/deadline-iosched.o drivers/block/cfq-iosched.o

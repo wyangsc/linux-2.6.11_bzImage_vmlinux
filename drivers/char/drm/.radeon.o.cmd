@@ -1,0 +1,1 @@
+cmd_drivers/char/drm/radeon.o := ld -m elf_x86_64  -r -o drivers/char/drm/radeon.o drivers/char/drm/radeon_drv.o drivers/char/drm/radeon_cp.o drivers/char/drm/radeon_state.o drivers/char/drm/radeon_mem.o drivers/char/drm/radeon_irq.o

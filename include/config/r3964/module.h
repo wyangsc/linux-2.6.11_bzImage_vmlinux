@@ -1,0 +1,1 @@
+#define CONFIG_R3964_MODULE 1

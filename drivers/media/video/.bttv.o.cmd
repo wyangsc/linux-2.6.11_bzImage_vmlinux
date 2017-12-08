@@ -1,0 +1,1 @@
+cmd_drivers/media/video/bttv.o := ld -m elf_x86_64  -r -o drivers/media/video/bttv.o drivers/media/video/bttv-driver.o drivers/media/video/bttv-cards.o drivers/media/video/bttv-if.o drivers/media/video/bttv-risc.o drivers/media/video/bttv-vbi.o drivers/media/video/bttv-i2c.o drivers/media/video/bttv-gpio.o

@@ -1,0 +1,1 @@
+#define CONFIG_XFS_QUOTA 1

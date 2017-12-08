@@ -1,0 +1,1 @@
+#define CONFIG_ACENIC_MODULE 1

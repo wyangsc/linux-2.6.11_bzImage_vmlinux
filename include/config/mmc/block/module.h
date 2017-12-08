@@ -1,0 +1,1 @@
+#define CONFIG_MMC_BLOCK_MODULE 1

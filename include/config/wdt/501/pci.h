@@ -1,0 +1,1 @@
+#undef CONFIG_WDT_501_PCI

@@ -1,0 +1,1 @@
+#define CONFIG_IB700_WDT_MODULE 1

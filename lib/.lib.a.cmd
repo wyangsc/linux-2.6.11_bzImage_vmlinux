@@ -1,0 +1,1 @@
+cmd_lib/lib.a := rm -f lib/lib.a; ar  rcs lib/lib.a lib/bitmap.o lib/bust_spinlocks.o lib/cmdline.o lib/ctype.o lib/div64.o lib/dump_stack.o lib/errno.o lib/extable.o lib/idr.o lib/int_sqrt.o lib/kobject.o lib/kobject_uevent.o lib/kref.o lib/parser.o lib/prio_tree.o lib/radix-tree.o lib/rbtree.o lib/rwsem-spinlock.o lib/string.o lib/vsprintf.o

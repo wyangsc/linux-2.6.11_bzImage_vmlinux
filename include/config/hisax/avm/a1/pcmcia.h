@@ -1,0 +1,1 @@
+#define CONFIG_HISAX_AVM_A1_PCMCIA 1

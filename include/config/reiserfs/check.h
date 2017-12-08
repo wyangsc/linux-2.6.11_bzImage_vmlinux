@@ -1,0 +1,1 @@
+#define CONFIG_REISERFS_CHECK 1

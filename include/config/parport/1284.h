@@ -1,0 +1,1 @@
+#define CONFIG_PARPORT_1284 1

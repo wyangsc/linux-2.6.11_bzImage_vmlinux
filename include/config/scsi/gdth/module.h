@@ -1,0 +1,1 @@
+#define CONFIG_SCSI_GDTH_MODULE 1

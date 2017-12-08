@@ -1,0 +1,1 @@
+cmd_arch/x86_64/ia32/vsyscall-sysenter.so := gcc -m32 -nostdlib -shared -s -Wl,-soname=linux-gate.so.1 -o arch/x86_64/ia32/vsyscall-sysenter.so -Wl,-T,arch/x86_64/ia32/vsyscall.lds arch/x86_64/ia32/vsyscall-sysenter.o

@@ -1,0 +1,1 @@
+#define CONFIG_CIFS_XATTR 1

@@ -1,0 +1,1 @@
+#define CONFIG_SND_OPL3_LIB_MODULE 1

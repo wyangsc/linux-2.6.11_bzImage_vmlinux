@@ -1,0 +1,1 @@
+cmd_drivers/acpi/hardware/built-in.o :=  ld -m elf_x86_64  -r -o drivers/acpi/hardware/built-in.o drivers/acpi/hardware/hwacpi.o drivers/acpi/hardware/hwgpe.o drivers/acpi/hardware/hwregs.o drivers/acpi/hardware/hwsleep.o

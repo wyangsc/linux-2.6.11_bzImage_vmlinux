@@ -1,0 +1,1 @@
+#define CONFIG_CISS_SCSI_TAPE 1

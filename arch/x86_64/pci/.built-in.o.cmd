@@ -1,0 +1,1 @@
+cmd_arch/x86_64/pci/built-in.o :=  ld -m elf_x86_64  -r -o arch/x86_64/pci/built-in.o arch/x86_64/pci/i386.o arch/x86_64/pci/direct.o arch/x86_64/pci/fixup.o arch/x86_64/pci/acpi.o arch/x86_64/pci/legacy.o arch/x86_64/pci/irq.o arch/x86_64/pci/common.o arch/x86_64/pci/mmconfig.o arch/x86_64/pci/k8-bus.o

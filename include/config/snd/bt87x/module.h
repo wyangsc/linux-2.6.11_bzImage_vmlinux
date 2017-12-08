@@ -1,0 +1,1 @@
+#define CONFIG_SND_BT87X_MODULE 1

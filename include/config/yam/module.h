@@ -1,0 +1,1 @@
+#define CONFIG_YAM_MODULE 1

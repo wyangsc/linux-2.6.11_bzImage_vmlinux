@@ -1,0 +1,1 @@
+#define CONFIG_CAPI_AVM 1

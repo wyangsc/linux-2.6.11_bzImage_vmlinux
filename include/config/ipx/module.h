@@ -1,0 +1,1 @@
+#define CONFIG_IPX_MODULE 1

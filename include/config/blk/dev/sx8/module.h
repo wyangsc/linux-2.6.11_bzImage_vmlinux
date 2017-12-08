@@ -1,0 +1,1 @@
+#define CONFIG_BLK_DEV_SX8_MODULE 1

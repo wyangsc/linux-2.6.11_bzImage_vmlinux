@@ -1,0 +1,1 @@
+#define CONFIG_AGP_AMD64 1

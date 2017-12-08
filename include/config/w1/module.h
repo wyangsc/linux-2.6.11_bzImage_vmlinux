@@ -1,0 +1,1 @@
+#define CONFIG_W1_MODULE 1

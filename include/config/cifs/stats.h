@@ -1,0 +1,1 @@
+#define CONFIG_CIFS_STATS 1

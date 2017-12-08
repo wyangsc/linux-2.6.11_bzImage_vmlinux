@@ -1,0 +1,1 @@
+#define CONFIG_SND_HDSP_MODULE 1

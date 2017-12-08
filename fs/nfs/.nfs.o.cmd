@@ -1,0 +1,1 @@
+cmd_fs/nfs/nfs.o := ld -m elf_x86_64  -r -o fs/nfs/nfs.o fs/nfs/dir.o fs/nfs/file.o fs/nfs/inode.o fs/nfs/nfs2xdr.o fs/nfs/pagelist.o fs/nfs/proc.o fs/nfs/read.o fs/nfs/symlink.o fs/nfs/unlink.o fs/nfs/write.o

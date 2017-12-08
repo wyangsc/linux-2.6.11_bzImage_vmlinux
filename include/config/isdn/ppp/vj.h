@@ -1,0 +1,1 @@
+#define CONFIG_ISDN_PPP_VJ 1

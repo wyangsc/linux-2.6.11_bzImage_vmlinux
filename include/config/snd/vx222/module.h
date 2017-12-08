@@ -1,0 +1,1 @@
+#define CONFIG_SND_VX222_MODULE 1

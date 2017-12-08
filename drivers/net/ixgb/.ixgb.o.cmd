@@ -1,0 +1,1 @@
+cmd_drivers/net/ixgb/ixgb.o := ld -m elf_x86_64  -r -o drivers/net/ixgb/ixgb.o drivers/net/ixgb/ixgb_main.o drivers/net/ixgb/ixgb_hw.o drivers/net/ixgb/ixgb_ee.o drivers/net/ixgb/ixgb_ethtool.o drivers/net/ixgb/ixgb_param.o

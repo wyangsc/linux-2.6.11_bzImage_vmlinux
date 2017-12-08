@@ -1,0 +1,1 @@
+#define CONFIG_AX25_DAMA_SLAVE 1

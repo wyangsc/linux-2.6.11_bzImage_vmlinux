@@ -1,0 +1,1 @@
+#define CONFIG_SCSI_DEBUG_MODULE 1

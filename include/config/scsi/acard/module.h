@@ -1,0 +1,1 @@
+#define CONFIG_SCSI_ACARD_MODULE 1

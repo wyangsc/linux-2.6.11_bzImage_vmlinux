@@ -1,0 +1,1 @@
+#define CONFIG_ISDN_DIVAS_PRIPCI 1

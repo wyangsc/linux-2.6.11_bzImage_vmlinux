@@ -1,0 +1,1 @@
+#define CONFIG_DISCONTIGMEM 1

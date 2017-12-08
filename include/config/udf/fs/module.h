@@ -1,0 +1,1 @@
+#define CONFIG_UDF_FS_MODULE 1

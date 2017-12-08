@@ -1,0 +1,1 @@
+#define CONFIG_CHR_DEV_OSST_MODULE 1

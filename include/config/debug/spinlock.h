@@ -1,0 +1,1 @@
+#define CONFIG_DEBUG_SPINLOCK 1

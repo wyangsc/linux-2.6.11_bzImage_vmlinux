@@ -1,0 +1,1 @@
+#define CONFIG_SND_RME96_MODULE 1

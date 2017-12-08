@@ -1,0 +1,1 @@
+#define CONFIG_VIDEO_BUF_MODULE 1
